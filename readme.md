@@ -1,8 +1,8 @@
 This software is automatically tested by Travis-CI after each build. Current build status:
-[![Build status](https://travis-ci.org/cdt-aimlac/pl_curves.svg?branch=master)](https://travis-ci.org/cdt-aimlac/pl_curves)
+[![Build status](https://travis-ci.com/mmesiti/pl_curves_aimlac.svg?branch=master)](https://travis-ci.com/github/mmesiti/pl_curves_aimlac/)
 
 Code coverage: 
-[![codecov](https://codecov.io/gh/CDT-AIMLAC/pl_curves/branch/master/graph/badge.svg)](https://codecov.io/gh/CDT-AIMLAC/pl_curves)
+[![codecov](https://codecov.io/gh/mmesiti/pl_curves_aimlac/branch/master/graph/badge.svg)](https://codecov.io/gh/mmesiti/pl_curves_aimlac)
 
 # Introduction
 
