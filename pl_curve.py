@@ -24,8 +24,6 @@ in Frontiers in Microbiology 21 June 2016
 
 @author: Colin Sauze
 """
-
-
 import sys
 import argparse
 import math
