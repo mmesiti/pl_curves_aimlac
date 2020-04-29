@@ -61,6 +61,9 @@ def calculate_gini(data):
         return math.nan
 
     # Mean absolute difference
+    if type(data) in [ pd.DataFrame, pd.Series ]:
+        data = data.values
+
     mad = np.abs(np.subtract.outer(data, data)).mean()
     # Relative mean absolute difference
     rmad = mad / np.mean(data)
